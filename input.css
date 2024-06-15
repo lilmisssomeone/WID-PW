@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.btn{
+    @apply rounded-sm py-2 px-4 uppercase text-black bg-white border-t-white
+}
